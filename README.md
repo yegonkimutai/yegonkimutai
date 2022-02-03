@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yegonkimutai
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning javascript and web development
+- 💞️ I’m looking to collaborate on exciting projects that will help me grow.
