@@ -3,7 +3,7 @@
 
 <div>
  <p>
-I can be able to build a Website from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is commited to learn a new thing about programming everydat
+I can be able to build a Website from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is commited to learn a new thing about programming everyday.
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
