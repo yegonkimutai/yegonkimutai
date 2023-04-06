@@ -13,7 +13,7 @@ const Yegon = new Promise((resolve, reject) => {
     reachMe: 'yegonkimutai.99@gmail.com',
   })
   
-  reject('Never Stop Learning');
+  reject('Never Give Up');
 )}
 ```
 
