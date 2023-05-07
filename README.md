@@ -17,7 +17,7 @@ const Yegon = new Promise((resolve, reject) => {
 )}
 ```
 
-<h3 align="left">🤝🏻 Connect with me:</h3>
+<h3 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50"> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yegonbrian8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yegonbrian8" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/brian-yegon-0717a1241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@Yegonbrian" height="30" width="40" /></a>
