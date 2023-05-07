@@ -23,9 +23,13 @@ const Yegon = new Promise((resolve, reject) => {
 <a href="https://www.linkedin.com/in/brian-yegon-0717a1241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@Yegonbrian" height="30" width="40" /></a>
 </p>
 
-### Github Stats
-<h2 align="center"><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=yegonkimutai&show_icons=true&locale=en&layout=compact" alt="yegonkimutai" /></h2>
+<h3 align="center" style="display: flex; justify-content: center; align-item: center;">Certificates & Licenses</h3>
+ <p style="width:20px">
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858"></img>
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351775"></img>
+</p>
 
+### Github Stats
 <h2 align="center">&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=yegonkimutai&show_icons=true&locale=en" alt="yegonkimutai" /></h2>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yegonkimutai&" alt="yegonkimutai" width="500" /></p>
