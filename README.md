@@ -27,6 +27,7 @@ const Yegon = new Promise((resolve, reject) => {
  <p style="width:1.5rem">
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858"></img>
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351775"></img>
+ <img src = "https://templates.images.credential.net/15790419775515809487933217124360.png"></img>
 </p>
 
 ### Github Stats
