@@ -24,9 +24,9 @@ const Yegon = new Promise((resolve, reject) => {
 </p>
 
 <h3 align="left" style="display: flex; justify-content: center; align-item: center;">Certificates & Licenses</h3>
- <p style="width:1.5rem" "height: 1.5rem">
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351775"></img>
+ <p>
+ <img src = "https://templates.images.credential.net/15790420725707015843039145125501.png" height='200' width='200'/>
+  <img src = "https://templates.images.credential.net/15959755104909798720520579501098.png" height='200' width='200'/>
  <img src = "https://templates.images.credential.net/15790419775515809487933217124360.png" height='200' width='200'/>
 </p>
 
