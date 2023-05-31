@@ -25,9 +25,9 @@ const Yegon = new Promise((resolve, reject) => {
 
 <h3 align="left" style="display: flex; justify-content: center; align-item: center;">Certificates & Licenses</h3>
  <p>
- <img src = "https://templates.images.credential.net/15790420725707015843039145125501.png" height='150' width='150'/>
-  <img src = "https://templates.images.credential.net/15959755104909798720520579501098.png" height='150' width='150'/>
- <img src = "https://templates.images.credential.net/15790419775515809487933217124360.png" height='150' width='150'/>
+ <img src = "https://templates.images.credential.net/15790420725707015843039145125501.png" height='100' width='100'/>
+  <img src = "https://templates.images.credential.net/15959755104909798720520579501098.png" height='100' width='100'/>
+ <img src = "https://templates.images.credential.net/15790419775515809487933217124360.png" height='100' width='100'/>
 </p>
 
 ### Github Stats
