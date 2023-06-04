@@ -31,7 +31,10 @@ const Yegon = new Promise((resolve, reject) => {
 </p>
 
 ### Github Stats
-<h2 align="center">&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=yegonkimutai&show_icons=true&locale=en" alt="yegonkimutai" /></h2>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yegonkimutai&" alt="yegonkimutai" width="500" /></p>
+<div>
+<p>&nbsp;
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yegonkimutai&show_icons=true&locale=en" alt="yegonkimutai" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yegonkimutai&" alt="yegonkimutai" width="400"/>
+  </p>
+<div/>
 
