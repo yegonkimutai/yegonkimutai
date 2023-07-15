@@ -8,7 +8,7 @@ const Yegon = new Promise((resolve, reject) => {
     studyingAt: 'Microverse Remote Software Development Program',
     workingOn: 'React Projects' && 'Web development Projects',
     learningCurrently: ['Ruby on Rails', 'Next Js', 'Data Structure & Algorithms']
-    techStack: [JavaScript, React, HTML, CSS],
+    techStack: [JavaScript, React, Ruby on Rails, SQL, HTML, CSS],
     lookingFor: 'Full-stack Software Developer position',
     reachMe: 'yegonkimutai.99@gmail.com',
   })
@@ -27,6 +27,7 @@ const Yegon = new Promise((resolve, reject) => {
  <img src = "https://templates.images.credential.net/15790420725707015843039145125501.png" height='100' width='100'/>
   <img src = "https://templates.images.credential.net/15959755104909798720520579501098.png" height='100' width='100'/>
  <img src = "https://templates.images.credential.net/15790419775515809487933217124360.png" height='100' width='100'/>
+ <img src = "https://templates.images.credential.net/15790420075846753839720457960174.png" height='100' width='100'/>
 </p>
 
 <h2> 💻 TECH STACK </h2>
