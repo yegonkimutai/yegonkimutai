@@ -29,6 +29,7 @@ const Yegon = new Promise((resolve, reject) => {
  <img src = "https://templates.images.credential.net/15790419775515809487933217124360.png" height='100' width='100'/>
  <img src = "https://templates.images.credential.net/15790420075846753839720457960174.png" height='100' width='100'/>
  <img src = "https://templates.images.credential.net/15790421063942253832023806501758.png" height='100' width='100'/>
+ <img src = "https://templates.images.credential.net/16728372942152429761903126575649.png" height='100' width='100'/>
 </p>
 
 <h2> 💻 TECH STACK </h2>
