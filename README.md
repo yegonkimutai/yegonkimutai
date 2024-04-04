@@ -5,7 +5,7 @@
 ```javascript
 const Yegon = new Promise((resolve, reject) => {
   resolve({
-    studyingAt: 'Microverse Remote Software Development Program',
+    studiedAt: 'Microverse Remote Software Development Program',
     workingOn: 'Full-stack Projects' && 'Web development Projects',
     learningCurrently: ['Full-stack Development', 'Data Structure & Algorithms', 'Three js']
     techStack: [JavaScript, Python, Java, PHP, React, Laravel, Django, Ruby on Rails, SQL, HTML, CSS],
