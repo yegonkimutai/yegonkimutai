@@ -8,7 +8,7 @@ const Yegon = new Promise((resolve, reject) => {
     studiedAt: 'Microverse Remote Software Development Program',
     workingOn: 'Full-stack Projects' && 'Web development Projects',
     learningCurrently: ['Full-stack Development', 'Data Structure & Algorithms', 'Three js']
-    techStack: [JavaScript, Python, Java, PHP, React, Laravel, Django, Ruby on Rails, SQL, HTML, CSS],
+    techStack: [JavaScript, Python, Java, PHP, React, Laravel, Django, Ruby on Rails, Postgresql, SQL, HTML, CSS],
     lookingFor: 'Full-stack || Front-end || Back-end Software Developer position',
     reachMe: 'yegonkimutai.99@gmail.com',
   })
